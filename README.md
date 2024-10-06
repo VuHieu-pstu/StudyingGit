@@ -1,0 +1,2 @@
+# StudyingGit
+First Git project.
